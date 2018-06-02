@@ -174,7 +174,7 @@ ClientBin/
 node_modules/
 orleans.codegen.cs
 # jwe
-ps/
+#ps/
 # RIA/Silverlight projects
 Generated_Code/
 
