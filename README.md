@@ -7,3 +7,5 @@ If you want to change this file and follow the changes goto [this file on github
 * Get more info on [Markdown](<https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>)
 
 * AwesomeMarkdown on <https://github.com/mundimark/awesome-markdown>
+
+xxx XXX *XXX* __YYY__
