@@ -17,3 +17,7 @@ function greeter(person: Person) {
 let user = new Student("Jane", "M.", "User");
 
 document.body.innerHTML = greeter(user);
+
+const obj = { width: 10, height: 15 };
+const area = obj.width * obj.height;
+//document.body.innerText = <div>(area.toString() < /div>;

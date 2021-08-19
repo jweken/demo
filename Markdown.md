@@ -1,6 +1,7 @@
 # Markdown Syntax
 
 [link1][##[1]]
+
 ## Headings
 
 **H1** #        Heading H1   
@@ -41,4 +42,14 @@ __STRONG__ with **asterisks** or __underscores__
 
 [**LOCAL file main.d.ts**](<js/src/main.d.ts>)
 
-***
+---
+
+## Tables
+
+| Tables        | are           |  cool |
+| ------------- | :------------ | ----: |
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+| joking        | costs         |    €0 |
+

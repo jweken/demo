@@ -13,3 +13,6 @@ function greeter(person) {
 }
 var user = new Student("Jane", "M.", "User");
 document.body.innerHTML = greeter(user);
+var obj = { width: 10, height: 15 };
+var area = obj.width * obj.height;
+//document.body.innerText = <div>(area.toString() < /div>;
