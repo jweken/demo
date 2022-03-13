@@ -1,6 +1,6 @@
-# TypeScript Demofiles 
+# TypeScript Demofiles
 
-# Links
+## Links
 
 * [TypeScript](https://www.typescriptlang.org/) The Language
 * [Github - start](<https://github.com/jweken/demo/tree/master/ts>)
