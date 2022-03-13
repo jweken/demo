@@ -1,16 +1,17 @@
 # Markdown Syntax
 
 [link1][##[1]]
+
 ## Headings
 
-**H1** #        Heading H1   
+**H1** #        Heading H1
 **H2** ##       Heading H2
 
 ## Emphasis
 
-_ITALIC with *asterisks* or underscores._
+_ITALIC with_sterisks_or underscores._
 
-__STRONG__ with **asterisks** or __underscores__
+**STRONG** with **asterisks** or **underscores**
 
 ## Lists
 
@@ -29,16 +30,14 @@ __STRONG__ with **asterisks** or __underscores__
    **Note that this line is separate, but within the same paragraph.**  
    (This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
 
-- Minus-list  
+* Minus-list  
   a list (unordered)  
   that has an indented paragraph  
 
-  - minus sublist  
+  * minus sublist  
     a minus sublist with indentation
   ---
 
 ## Links
 
 [**LOCAL file main.d.ts**](<js/src/main.d.ts>)
-
-***
