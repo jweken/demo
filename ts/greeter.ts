@@ -7,13 +7,15 @@ class Student {
 
 interface Person {
     firstName: string;
+    middleInitial: string;
     lastName: string;
+    fullName: string;
 }
 
 function greeter(person: Person) {
-    return "Hello, " + person.firstName + " " + person.lastName;
+    return "Hello, " + person.fullName;
 }
 
-let user = new Student("Jane", "M.", "User");
+let user = new Student("Johan", "W.", "Eken");
 
 document.body.innerHTML = greeter(user);

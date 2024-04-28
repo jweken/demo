@@ -3,7 +3,7 @@
     "compilerOptions": {
         "alwaysStrict": true,
         "target": "es5",
+        "strict": true,
         "sourceMap": false,
-
     }
 }
